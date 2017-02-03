@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2A416F341E440B3D0010EF4B /* Emoji Divtionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Emoji Divtionary.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A416F341E440B3D0010EF4B /* Emoji Dictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Emoji Dictionary.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A416F371E440B3D0010EF4B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2A416F391E440B3D0010EF4B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2A416F3C1E440B3D0010EF4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		2A416F351E440B3D0010EF4B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2A416F341E440B3D0010EF4B /* Emoji Divtionary.app */,
+				2A416F341E440B3D0010EF4B /* Emoji Dictionary.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2A416F331E440B3D0010EF4B /* Emoji Divtionary */ = {
+		2A416F331E440B3D0010EF4B /* Emoji Dictionary */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2A416F461E440B3D0010EF4B /* Build configuration list for PBXNativeTarget "Emoji Divtionary" */;
+			buildConfigurationList = 2A416F461E440B3D0010EF4B /* Build configuration list for PBXNativeTarget "Emoji Dictionary" */;
 			buildPhases = (
 				2A416F301E440B3D0010EF4B /* Sources */,
 				2A416F311E440B3D0010EF4B /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "Emoji Divtionary";
+			name = "Emoji Dictionary";
 			productName = "Emoji Divtionary";
-			productReference = 2A416F341E440B3D0010EF4B /* Emoji Divtionary.app */;
+			productReference = 2A416F341E440B3D0010EF4B /* Emoji Dictionary.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2A416F2F1E440B3D0010EF4B /* Build configuration list for PBXProject "Emoji Divtionary" */;
+			buildConfigurationList = 2A416F2F1E440B3D0010EF4B /* Build configuration list for PBXProject "Emoji Dictionary" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2A416F331E440B3D0010EF4B /* Emoji Divtionary */,
+				2A416F331E440B3D0010EF4B /* Emoji Dictionary */,
 			);
 		};
 /* End PBXProject section */
@@ -283,7 +283,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2A416F2F1E440B3D0010EF4B /* Build configuration list for PBXProject "Emoji Divtionary" */ = {
+		2A416F2F1E440B3D0010EF4B /* Build configuration list for PBXProject "Emoji Dictionary" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2A416F441E440B3D0010EF4B /* Debug */,
@@ -292,7 +292,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2A416F461E440B3D0010EF4B /* Build configuration list for PBXNativeTarget "Emoji Divtionary" */ = {
+		2A416F461E440B3D0010EF4B /* Build configuration list for PBXNativeTarget "Emoji Dictionary" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2A416F471E440B3D0010EF4B /* Debug */,

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2A416F331E440B3D0010EF4B"
-               BuildableName = "Emoji Divtionary.app"
-               BlueprintName = "Emoji Divtionary"
-               ReferencedContainer = "container:Emoji Divtionary.xcodeproj">
+               BuildableName = "Emoji Dictionary.app"
+               BlueprintName = "Emoji Dictionary"
+               ReferencedContainer = "container:Emoji Dictionary.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2A416F331E440B3D0010EF4B"
-            BuildableName = "Emoji Divtionary.app"
-            BlueprintName = "Emoji Divtionary"
-            ReferencedContainer = "container:Emoji Divtionary.xcodeproj">
+            BuildableName = "Emoji Dictionary.app"
+            BlueprintName = "Emoji Dictionary"
+            ReferencedContainer = "container:Emoji Dictionary.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2A416F331E440B3D0010EF4B"
-            BuildableName = "Emoji Divtionary.app"
-            BlueprintName = "Emoji Divtionary"
-            ReferencedContainer = "container:Emoji Divtionary.xcodeproj">
+            BuildableName = "Emoji Dictionary.app"
+            BlueprintName = "Emoji Dictionary"
+            ReferencedContainer = "container:Emoji Dictionary.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2A416F331E440B3D0010EF4B"
-            BuildableName = "Emoji Divtionary.app"
-            BlueprintName = "Emoji Divtionary"
-            ReferencedContainer = "container:Emoji Divtionary.xcodeproj">
+            BuildableName = "Emoji Dictionary.app"
+            BlueprintName = "Emoji Dictionary"
+            ReferencedContainer = "container:Emoji Dictionary.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
