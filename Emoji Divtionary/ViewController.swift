@@ -12,7 +12,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     
     @IBOutlet weak var tableview: UITableView!
     
-    
+    var emojis = ["🤗", "😱", "👹", "👻", "💇🏼", "🦄", "🌚", "🏖", "🔮", "♥️", "🈲"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -24,12 +24,12 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return 10
+        return emojis.count
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = UITableViewCell()
-        cell.textLabel?.text = "哼哼☹️"
+        cell.textLabel?.text = emojis[indexPath.row]
         return cell
     }
     
